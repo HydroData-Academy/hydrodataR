@@ -1,4 +1,4 @@
-Package: interfaces
+Package: hydrodataR
 Type: Package
 Title: Interfacing hydrological data
 Version: 0.1.0
@@ -9,8 +9,8 @@ Description: This package aims to provide easy access to a variety of hydrologic
 License: GPL
 Encoding: UTF-8
 LazyData: true
-URL: https://github.com/iso-code/interfaces
-BugReports: https://github.com/iso-code/interfaces/issues
+URL: https://github.com/hydrodata-academy/hydrodataR
+BugReports: https://github.com/hydrodata-academy/hydrodataR/issues
 Depends: 
   R (>= 4.3.1.0)
 Imports:
