@@ -6,7 +6,7 @@ Das Repository hydrodata-academy/hydrodataR stellt ein R-Paket bereit, das versc
 Installation
 devtools::install_github("hydrodata-academy/hydrodataR")
 
-library(ihydrodataR)
+library(hydrodataR)
 
 # Datenquellen
 Aktuell lassen sich Datenquellen wie folgt ermitteln
